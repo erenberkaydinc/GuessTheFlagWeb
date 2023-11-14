@@ -1,6 +1,6 @@
 # Guess The Flag - Web
-The game is developed just for fun!
-
+The game is developed just for fun! 
+Try the game from here! [Guess The Flag Web](https://erenberkaydinc.github.io/GuessTheFlagWeb/).
 # Used
 - Bootstrap
 - HTML + CSS + JS
