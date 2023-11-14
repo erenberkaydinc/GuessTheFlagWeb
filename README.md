@@ -8,4 +8,4 @@ The game is developed just for fun!
 - Nice clean looking UI
 
 ## Screenshots & Gif
-
+![Browser](https://github.com/erenberkaydinc/GuessTheFlagWeb/blob/master/guesstheflag.gif?raw=true)
