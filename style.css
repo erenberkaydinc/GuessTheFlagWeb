@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to right, rgba(132, 106, 141, 0.3), rgba(181, 179, 220, 0.3), rgba(156, 195, 229, 0.3), rgba(175, 209, 166, 0.3));
+}
+
+.app {
+    opacity: 100;
+}
+.flag-col {
+    padding: 20px;
+}
+.flag-col img {
+    width: 65%;  
+    height: auto;  
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#start-button {
+    width: 15%;
+}
+
+#questions-input {
+    /* existing CSS properties */
+    display: block;
+    margin: 0 auto;
+    width: 15%;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+.form-title {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 500;
+}
