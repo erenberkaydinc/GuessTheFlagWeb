@@ -156,6 +156,14 @@ function attachListeners({numberOfQuestionsInput}) {
                 setTimeout(() => {
                     resetGame();
                     updateHighScore();
+
+                    // if questions answered is equal to number of questions input , game is over
+                    if (questionsAnswered >= Number(numberOfQuestionsInput)) {
+                        updateHighScore();
+                        window.alert(`Game over! Your score is ${score}!`);
+                        fullReset();
+                    }
+
                 }, 1200);
 
             } else {
